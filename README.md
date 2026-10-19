@@ -22,3 +22,17 @@ Python · TypeScript · Vue 3 · Node/Express · MongoDB · Docker · GitHub Act
 Most of my code lives in private client repos, so there isn't much public here yet. I'm happy to walk through any of the projects above on a call.
 
 I work in Spanish and English.
+
+<br>
+
+---
+
+<br>
+
+## Music: Casanova
+
+Outside of work I write, record and produce music as **Casanova**. I call the sound tango blues. Before going solo I played with the band The Stone Avenue. I produce every track myself, and I've released a new song every month for over a year.
+
+[Spotify](https://open.spotify.com/artist/3sPLJZEXN9fogz9YVqB6CG) · [YouTube](https://www.youtube.com/@casanovaofficialmusic) · [TikTok](https://www.tiktok.com/@casanovaofficiall) · [Website](https://casanovaofficial.vercel.app)
+
+The artist website's code lives in [Casanova](https://github.com/Casanovaofficial/Casanova) (Next.js, TypeScript, Tailwind, deployed on Vercel).
