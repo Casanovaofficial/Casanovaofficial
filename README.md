@@ -48,7 +48,7 @@ Python, TypeScript, Vue, Node, MongoDB, Docker, GitHub Actions, HubSpot, GoHighL
 
 Almost all of this code is private client work. If you want to see something, ask and I'll walk you through it.
 
-[My CV](https://casanovaofficial.github.io/Casanovaofficial/) · [PDF](https://casanovaofficial.github.io/Casanovaofficial/Erick_Casanova_CV.pdf) · erickcasanova78@gmail.com
+[My CV](https://erickcasanova.github.io/ErickCasanova/) · [PDF](https://erickcasanova.github.io/ErickCasanova/Erick_Casanova_CV.pdf) · erickcasanova78@gmail.com
 
 <br>
 
