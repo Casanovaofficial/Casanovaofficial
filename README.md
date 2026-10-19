@@ -16,7 +16,7 @@ Spanish is my first language. Before all this I worked as a medical interpreter,
 
 Tools I reach for most: Python, TypeScript, Vue, Node, MongoDB, Docker, GitHub Actions, HubSpot, GoHighLevel, Make, n8n, and the Claude and OpenAI APIs.
 
-[My CV](https://casanovaofficial.github.io/Casanovaofficial/) · [PDF](cv/Erick_Casanova_CV.pdf) · erickcasanova78@gmail.com
+[My CV](https://casanovaofficial.github.io/Casanovaofficial/) · [PDF](https://casanovaofficial.github.io/Casanovaofficial/Erick_Casanova_CV.pdf) · erickcasanova78@gmail.com
 
 <br>
 
