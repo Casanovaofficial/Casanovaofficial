@@ -1,38 +1,29 @@
-# Erick Casanova
+# Hey, I'm Erick
 
-Software developer and AI automation consultant in Tijuana, Mexico.
+I'm a developer based in Tijuana. I didn't come from a CS degree. I came from sales, cold calling and living inside HubSpot all day. I started building small tools to make that job easier, the tools got bigger, and now building them is the job.
 
-I started in sales, cold calling and working a CRM all day. Now I build the systems sales and patient teams run on: chatbots that pre-qualify leads, CRM automations that don't let follow-ups slip, and the dashboards managers check every week. Most of my clients sit between the U.S. and Mexico, in real estate acquisitions and medical tourism.
+Most of what I make lives between a lead and a sale:
 
-**[Read my CV](https://casanovaofficial.github.io/Casanovaofficial/)** · **[Download PDF](cv/Erick_Casanova_CV.pdf)** · erickcasanova78@gmail.com
+- chatbots that talk to people on WhatsApp, Instagram or a website and figure out who's actually ready for a call
+- HubSpot and GoHighLevel automations so nobody has to remember to follow up
+- internal apps and dashboards, lately in Vue and TypeScript with Node and MongoDB behind them
 
-## What I'm working on
+I've built these for a regenerative medicine clinic in Cancún, a couple of U.S. real estate acquisition teams, a business owners' club here in Tijuana, and a few agencies through Nexus Media. Almost all of that code is private, so if you want to see something, ask and I'll walk you through it.
 
-- **Cellular Institute** (regenerative medicine clinic, Cancún). An AI system that takes a patient lead from first message to the medical team: a bilingual chatbot on web, WhatsApp and Instagram scores each lead and hands it to HubSpot. I also wrote the clinic's internal app in Vue 3 + TypeScript with a Node/Express + MongoDB back end, shipped with Docker and GitHub Actions.
-- **C45 Core**, my own product. An AI content dashboard that plans and drafts posts and campaigns for clinics. Live at Cellular Institute.
-- **Nadax & TruBuyers** (U.S. real estate acquisitions). A HubSpot-connected Custom GPT for each acquisition rep, an AI receptionist on Aloware, and a Chrome extension that moves applicants from Indeed into HubSpot.
-- **Tortuga Nest** and a **business owners' club in Tijuana**. CRM automations and lead pre-qualification built on the same model.
+I also have my own product, C45 Core, a content dashboard for clinics. It's running at the Cancún clinic right now.
 
-## Stack
+Spanish is my first language. Before all this I worked as a medical interpreter, so I'm comfortable on a call in either language.
 
-Python · TypeScript · Vue 3 · Node/Express · MongoDB · Docker · GitHub Actions · HubSpot · GoHighLevel · Make.com · n8n · Claude and OpenAI APIs · Bland AI
+Tools I reach for most: Python, TypeScript, Vue, Node, MongoDB, Docker, GitHub Actions, HubSpot, GoHighLevel, Make, n8n, and the Claude and OpenAI APIs.
 
-## A note on this GitHub
-
-Most of my code lives in private client repos, so there isn't much public here yet. I'm happy to walk through any of the projects above on a call.
-
-I work in Spanish and English.
+[My CV](https://casanovaofficial.github.io/Casanovaofficial/) · [PDF](cv/Erick_Casanova_CV.pdf) · erickcasanova78@gmail.com
 
 <br>
 
 ---
 
-<br>
+### Music
 
-## Music: Casanova
+On the side I make music as **Casanova**. I call it tango blues. I produce everything myself and put out a new song every month.
 
-Outside of work I write, record and produce music as **Casanova**. I call the sound tango blues. Before going solo I played with the band The Stone Avenue. I produce every track myself, and I've released a new song every month for over a year.
-
-[Spotify](https://open.spotify.com/artist/3sPLJZEXN9fogz9YVqB6CG) · [YouTube](https://www.youtube.com/@casanovaofficialmusic) · [TikTok](https://www.tiktok.com/@casanovaofficiall) · [Website](https://casanovaofficial.vercel.app)
-
-The artist website's code lives in [Casanova](https://github.com/Casanovaofficial/Casanova) (Next.js, TypeScript, Tailwind, deployed on Vercel).
+[Spotify](https://open.spotify.com/artist/3sPLJZEXN9fogz9YVqB6CG) · [YouTube](https://www.youtube.com/@casanovaofficialmusic) · [TikTok](https://www.tiktok.com/@casanovaofficiall) · [casanovaofficial.vercel.app](https://casanovaofficial.vercel.app)
